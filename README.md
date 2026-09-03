@@ -47,4 +47,4 @@ DATABASE:
 
 
 TECHNOLOGY USED:
- Flask, PostgreSQL, SQLAlchemy, React, and TypeScript.
+ - Flask, PostgreSQL, SQLAlchemy, React, and TypeScript.
