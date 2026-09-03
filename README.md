@@ -48,12 +48,14 @@ Last_name ,
 Email, 
 Phone_number,
 Password,
-.User_id(primary key), 
-.role,
-.is_active
+User_id(primary key), 
+role,
+is_active
 
 - Database connections:
-  .
+    A user can make many appointments/bookings
+    A Booking can have many services
+  
 
   
 
