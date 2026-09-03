@@ -27,8 +27,6 @@ DATABASE:
 - Bookings
 - Users
 
-FEATURE ROADMAP:
-  -
   
 
 
@@ -48,5 +46,5 @@ FEATURE ROADMAP:
 
 
 
-
-Full-stack salon appointment booking and management platform built with Flask, PostgreSQL, SQLAlchemy, React, and TypeScript.
+TECHNOLOGY USED:
+ Flask, PostgreSQL, SQLAlchemy, React, and TypeScript.
